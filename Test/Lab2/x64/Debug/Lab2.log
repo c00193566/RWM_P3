@@ -1,0 +1,4 @@
+﻿  Game.cpp
+c:\users\gameuser\desktop\college\real world modeling\menu component\test\lab2\game.cpp(136): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+c:\users\gameuser\desktop\college\real world modeling\menu component\test\lab2\game.cpp(174): warning C4715: 'Game::String_To_GameState': not all control paths return a value
+  Lab2.vcxproj -> C:\Users\gameuser\Desktop\College\Real World Modeling\Menu Component\Test\x64\Debug\Lab2.exe

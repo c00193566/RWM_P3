@@ -1,0 +1,18 @@
+﻿  TrianglePrimitive.cpp
+  Text.cpp
+c:\users\gameuser\desktop\college\real world modeling\menu component\dll\menucomponent\menucomponent\text.cpp(57): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\gameuser\desktop\college\real world modeling\menu component\dll\menucomponent\menucomponent\text.cpp(58): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\gameuser\desktop\college\real world modeling\menu component\dll\menucomponent\menucomponent\text.cpp(83): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\gameuser\desktop\college\real world modeling\menu component\dll\menucomponent\menucomponent\text.cpp(84): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Sprite.cpp
+c:\users\gameuser\desktop\college\real world modeling\menu component\dll\menucomponent\menucomponent\sprite.cpp(58): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\gameuser\desktop\college\real world modeling\menu component\dll\menucomponent\menucomponent\sprite.cpp(59): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\gameuser\desktop\college\real world modeling\menu component\dll\menucomponent\menucomponent\sprite.cpp(76): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\gameuser\desktop\college\real world modeling\menu component\dll\menucomponent\menucomponent\sprite.cpp(77): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\gameuser\desktop\college\real world modeling\menu component\dll\menucomponent\menucomponent\sprite.cpp(89): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\gameuser\desktop\college\real world modeling\menu component\dll\menucomponent\menucomponent\sprite.cpp(90): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\gameuser\desktop\college\real world modeling\menu component\dll\menucomponent\menucomponent\sprite.cpp(102): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\gameuser\desktop\college\real world modeling\menu component\dll\menucomponent\menucomponent\sprite.cpp(103): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  MenuComponentSystem.cpp
+  Generating Code...
+  MenuComponent.vcxproj -> C:\Users\gameuser\Desktop\College\Real World Modeling\Menu Component\DLL\MenuComponent\x64\Debug\MenuComponent.lib
